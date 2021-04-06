@@ -1,0 +1,61 @@
+
+.titulo {
+    margin: 0;
+    padding: 0;
+
+    background: #082735;
+    height: 80px;
+}
+
+h3{
+    margin-left: 50px;
+    color: aliceblue;
+
+    padding: 20px;
+}
+
+#formulario {
+    border: 1px solid #cacaca;
+    border-radius: 5px;
+    
+    margin: 50px;
+    padding: 40px;
+}
+
+.botao {
+    margin-top: 40px;
+}
+
+.botao_lista {
+    float: right;
+    margin-right: 50px;
+    margin-top: 7.5px;
+}
+
+.tabela{
+    width: 93%;
+}
+
+table {
+    margin-left: 50px;
+    padding-top: 0;
+}
+
+#botao {
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+table thead {
+    background: #082735;
+    color: #cacaca;
+}
+
+tr {
+    text-align: center;
+}
+
+#busca {
+    margin-left: 50px;
+}
